@@ -1,4 +1,4 @@
-class Stack() {
+class Stack {
   constructor() {
     this.items = [];
   }
