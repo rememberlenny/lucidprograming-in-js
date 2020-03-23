@@ -1,6 +1,8 @@
 class Stack {
   constructor() {
     this.items = [];
+    
+    return this.items;
   }
   
   push(el) {
